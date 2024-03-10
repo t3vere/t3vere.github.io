@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://developer.storypans.com/posts/my-first-post/</loc>
-    <lastmod>2024-03-10T18:56:07+09:00</lastmod>
-  </url><url>
     <loc>https://developer.storypans.com/</loc>
-    <lastmod>2024-03-10T18:56:07+09:00</lastmod>
+    <lastmod>2024-03-10T23:39:26+09:00</lastmod>
   </url><url>
     <loc>https://developer.storypans.com/posts/</loc>
+    <lastmod>2024-03-10T23:39:26+09:00</lastmod>
+  </url><url>
+    <loc>https://developer.storypans.com/posts/test-docs/</loc>
+    <lastmod>2024-03-10T23:39:26+09:00</lastmod>
+  </url><url>
+    <loc>https://developer.storypans.com/posts/my-first-post/</loc>
     <lastmod>2024-03-10T18:56:07+09:00</lastmod>
   </url><url>
     <loc>https://developer.storypans.com/categories/</loc>
